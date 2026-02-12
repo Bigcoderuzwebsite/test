@@ -10,7 +10,7 @@ from sqlalchemy.orm import sessionmaker
 logging.basicConfig(level=logging.INFO)
 
 # Bot configuration
-API_TOKEN = 'YOUR_API_TOKEN_HERE'
+API_TOKEN = '7391513751:AAH19Y464rzZt-2NXSCCD6KDCHMzFWashDw'
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
